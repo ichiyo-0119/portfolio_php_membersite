@@ -13,6 +13,7 @@ PHPによる会員制ブログサイトを作成しようと考えました。
 * 管理者削除機能（manager_delete.php　他
 * 管理者一覧ページ（manager_list.php
 * 一覧から各機能への分岐（manager_branch.php
+＊全て./managerディレクトリ下のファイル
 
 
 今後、追加予定の機能は、
