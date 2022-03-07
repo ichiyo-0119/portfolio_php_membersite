@@ -8,11 +8,11 @@ PHPによる会員制ブログサイトを作成しようと考えました。
 お恥ずかしながらまだ未完成で、
 今、正常な動作の確認が完了している機能は以下になります。
 
-・管理者登録機能（manager_add.php 他
-・管理者編集機能（manager_edit.php 他
-・管理者削除機能（manager_delete.php　他
-・管理者一覧ページ（manager_list.php
-・一覧から各機能への分岐（manager_branch.php
+* 管理者登録機能（manager_add.php 他
+* 管理者編集機能（manager_edit.php 他
+* 管理者削除機能（manager_delete.php　他
+* 管理者一覧ページ（manager_list.php
+* 一覧から各機能への分岐（manager_branch.php
 
 今後、追加予定の機能は、
 ・管理者ログイン機能
