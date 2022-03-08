@@ -2,11 +2,15 @@
 <html>
 <head>
     <meta charset="utf-8">
+    <link rel="stylesheet" href="./header.css">
     <title>管理者リスト</title>
 </head>
 <body>
-    <?php
+    <?php //headerの読み込み
+    include(dirname(__FILE__).'/header.php'); 
+    ?>
     
+    <?php
     try{
         $dsn = 'mysql:dbname=manager;host=localhost;charset=utf8';
         $user = 'root';
